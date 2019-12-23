@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
+
+h1 {
+  margin: 50px auto 0;
+  font-size:312.5%;
+  font-family: 'Itim', cursive;
+  color:#66BFBF;
+}
+
+h2{
+  color:#66BFBF;
+}
+
+h3{
+  color:#11999E;
+}
+
+.subtext{
+  font-size:30px;
+  font-weight:normal;
+  line-height:2
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+p {
+  font-family: 'Acme', sans-serif;
+  font-size: x-large;
+}
+.hacker{
+  border-radius:50%;
+  height:250px;
+  width:250px;
+}
+.program{
+  width:25%;
+  float:left;
+  margin:50px 30px 50px 0;
+
+}
+.movies{
+  width:25%;
+  float:right;
+  margin:10px 0 10px 30px;
+}
+.click{
+  height:50px;
+  width:50px;
+
+}
+a{
+  color:#11999E;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px;
+  text-align:left;
+  line-height:2;
+}
